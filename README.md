@@ -1,2 +1,2 @@
 # textbook_archieve
-The textbooks are in the master branch of this repository
+The textbooks used in UTM courses that I personally took and used.
